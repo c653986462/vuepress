@@ -1,0 +1,31 @@
+{
+  "hash": "0519188f",
+  "browserHash": "e651bc52",
+  "optimized": {
+    "@vuepress/shared": {
+      "file": "E:/迟明雨/VuePress/docs/.vuepress/.cache/@vuepress_shared.js",
+      "src": "E:/迟明雨/VuePress/node_modules/@vuepress/shared/lib/esm/index.js",
+      "needsInterop": false
+    },
+    "vue": {
+      "file": "E:/迟明雨/VuePress/docs/.vuepress/.cache/vue.js",
+      "src": "E:/迟明雨/VuePress/node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js",
+      "needsInterop": false
+    },
+    "vue-router": {
+      "file": "E:/迟明雨/VuePress/docs/.vuepress/.cache/vue-router.js",
+      "src": "E:/迟明雨/VuePress/node_modules/vue-router/dist/vue-router.esm-bundler.js",
+      "needsInterop": false
+    },
+    "@vueuse/core": {
+      "file": "E:/迟明雨/VuePress/docs/.vuepress/.cache/@vueuse_core.js",
+      "src": "E:/迟明雨/VuePress/node_modules/@vueuse/core/index.mjs",
+      "needsInterop": false
+    },
+    "nprogress": {
+      "file": "E:/迟明雨/VuePress/docs/.vuepress/.cache/nprogress.js",
+      "src": "E:/迟明雨/VuePress/node_modules/nprogress/nprogress.js",
+      "needsInterop": true
+    }
+  }
+}
